@@ -38,7 +38,17 @@ A sleek, modern calculator app built with **Android Jetpack Compose**, following
 
 ---
 
-## 🚀 How to Run
+## 📥 Download APK
+
+You can download the latest production-ready APK to test the app on your physical Android device.
+
+[**Download Calculator App APK**](https://github.com/richard-pius/simple_calculator/releases)
+
+*To install, you may need to "Allow installation from unknown sources" in your Android settings.*
+
+---
+
+## 🚀 How to Run(Development)
 
 1.  **Clone this repository:**
     ```bash
