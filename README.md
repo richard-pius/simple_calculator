@@ -24,13 +24,18 @@ A sleek, modern calculator app built with **Android Jetpack Compose**, following
 
 ---
 
+### Development Preview
+
+<img width="1918" height="1021" alt="development" src="https://github.com/user-attachments/assets/e026813f-30cb-4d10-8c25-55971d701703" />
+
+---
+
 ## 📸 Screenshots
 
 | Display | Calculation |
 | :---: | :---: |
-| ![Display Screenshot](<img width="362" height="801" alt="calculation" src="https://github.com/user-attachments/assets/590d5c7e-ea4e-4e58-873f-3208d7ff52a7" />) | ![Calculation Screenshot](<img width="365" height="796" alt="result" src="https://github.com/user-attachments/assets/a87e0f0b-7521-4ad0-a79c-203c6d10da82" />) |
+| <img width="362" height="801" alt="calculation" src="https://github.com/user-attachments/assets/590d5c7e-ea4e-4e58-873f-3208d7ff52a7" /> | <img width="365" height="796" alt="result" src="https://github.com/user-attachments/assets/a87e0f0b-7521-4ad0-a79c-203c6d10da82" /> |
 
-<img width="362" height="801" alt="calculation" src="https://github.com/user-attachments/assets/590d5c7e-ea4e-4e58-873f-3208d7ff52a7" />
 ---
 
 ## 🚀 How to Run
