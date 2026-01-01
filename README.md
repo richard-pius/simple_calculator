@@ -64,7 +64,3 @@ You can download the latest production-ready APK to test the app on your physica
 Special thanks to **Philipp Lackner** for the excellent [YouTube tutorial](https://www.youtube.com/watch?v=-aTcFJWxEQA) that served as the foundation for this project.
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
